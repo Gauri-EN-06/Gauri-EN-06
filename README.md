@@ -1,7 +1,7 @@
 <h1>Hello!</h1>
 
 **Hi, I’m Gauri!**  
-I'm a CS student at Heriot Watt University.
+I'm a CS student at Heriot Watt University
 
 ## About Me
 💻 Computer Science student who enjoys building practical and meaningful software  

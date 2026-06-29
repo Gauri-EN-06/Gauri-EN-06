@@ -23,9 +23,3 @@ I'm a 3rd year CS student at Heriot Watt University
 
 <br clear="left"/>
 
-
-
-<br><br>
-
-## Contact Me
-Email: 

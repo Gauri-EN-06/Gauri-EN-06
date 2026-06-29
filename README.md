@@ -1,7 +1,7 @@
 <h1>Hello!</h1>
 
 **Hello World, I’m Gauri!**  
-I'm a 3rd year CS student at Heriot Watt University
+I'm a 3rd year BSc Computer Science (Software Engineering) student at Heriot Watt University
 
 ## About Me
 💻 Computer Science student who enjoys building practical and meaningful software  
